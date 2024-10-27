@@ -1,0 +1,5 @@
+gamemakerlib/GMLogitechLEDLib/.vs/*
+gamemakerlib/GMLogitechLEDLib/Debug/*
+gamemakerlib/GMLogitechLEDLib/Release/*
+gamemakerlib/GMLogitechLEDLib/x64/*
+gamemakerlib/GMLogitechLEDLib/GMLogitechLEDLib.vcxproj.user
